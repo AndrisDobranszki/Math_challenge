@@ -1,4 +1,4 @@
-In the zip file you'll see project_10... .cpp
+In the zip file you'll see the Math_challenge_mainFile_1_1_26.cpp
 open in your "Geany" in any cpp compatible IDE
 and compile it on your machine.
 Then run it from terminal ( ./progam_name) 
